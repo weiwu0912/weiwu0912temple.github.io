@@ -1,0 +1,534 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiyangfinal.com" resolutions="1x" timestamp="1544433466717">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3947486767" ref="three:six:seven:index:one:five:two:four:character"/>
+    <file name="three.css" crc="166983434" ref="three"/>
+    <file name="six.css" crc="236095870" ref="six"/>
+    <file name="seven.css" crc="4283087296" ref="seven"/>
+    <file name="index.css" crc="85549996" ref="index"/>
+    <file name="one.css" crc="4186837798" ref="one"/>
+    <file name="five.css" crc="3873056733" ref="five"/>
+    <file name="two.css" crc="129564142" ref="two"/>
+    <file name="four.css" crc="189841246" ref="four"/>
+    <file name="character.css" crc="4139528353" ref="character"/>
+  </folder>
+  <folder name="assets">
+    <file name="shadow_puppetry.pdf" crc="53882807" seo="true" mt="1544404707000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:character:one:two:three:four:five:six:seven"/>
+    <file name="museutils.js" crc="340535759" ref="index:character:one:two:three:four:five:six:seven"/>
+    <file name="whatinput.js" crc="86476730" ref="index:character:one:two:three:four:five:six:seven"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:character:one:two:three:four:five:six:seven"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:character:one:two:three:four:five:six:seven"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:character:one:two:three:four:five:six:seven"/>
+    <file name="require.js" crc="7928878" ref="index:character:one:two:three:four:five:six:seven"/>
+  </folder>
+  <folder name="images">
+    <file name="1.gif" crc="4177765718" seo="true" ref="index:character:one:two:three:four:five:six:seven">
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+    </file>
+    <file name="3.gif" crc="144683773" ref="index:character:one:two:three:four:five:six:seven">
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="one" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+      <caption webpage="three" alt=""/>
+    </file>
+    <file name="page3.gif" crc="411782490" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.gif" crc="518556118" ref="index:character:one:two:three:four:five:six:seven">
+      <caption webpage="one" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="three" alt=""/>
+    </file>
+    <file name="2.gif" crc="202267725" seo="true" ref="character:one:two:three:four:five:six:seven">
+      <caption webpage="one" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="three" alt=""/>
+    </file>
+    <file name="c3.gif" crc="3776232488" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="c6.gif" crc="4204762621" ref="character:six">
+      <caption webpage="character" alt=""/>
+      <caption webpage="six" alt=""/>
+    </file>
+    <file name="c2.gif" crc="3919210633" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="c5.gif" crc="402637295" ref="character:six">
+      <caption webpage="character" alt=""/>
+      <caption webpage="six" alt=""/>
+    </file>
+    <file name="c1.gif" crc="272370459" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="c4.gif" crc="94005565" ref="character:six">
+      <caption webpage="character" alt=""/>
+      <caption webpage="six" alt=""/>
+    </file>
+    <file name="page1.gif" crc="124450341" ref="character:one:two:three:four:five:six">
+      <caption webpage="one" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="three" alt=""/>
+    </file>
+    <file name="4.gif" crc="4017073398" ref="character:one:two:three:four:five:six:seven">
+      <caption webpage="one" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="three" alt=""/>
+    </file>
+    <file name="page2.gif" crc="71150659" ref="character:one:two:three:four:five:six:seven">
+      <caption webpage="one" alt=""/>
+      <caption webpage="two" alt=""/>
+      <caption webpage="seven" alt=""/>
+      <caption webpage="five" alt=""/>
+      <caption webpage="six" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="four" alt=""/>
+      <caption webpage="three" alt=""/>
+    </file>
+    <file name="a3.gif" crc="125119320" ref="one">
+      <caption webpage="one" alt=""/>
+    </file>
+    <file name="a1.gif" crc="3840788718" ref="one">
+      <caption webpage="one" alt=""/>
+    </file>
+    <file name="a4.gif" crc="3943335823" ref="one">
+      <caption webpage="one" alt=""/>
+    </file>
+    <file name="a2.gif" crc="3860445028" ref="one">
+      <caption webpage="one" alt=""/>
+    </file>
+    <file name="b1.gif" crc="4017324573" ref="two">
+      <caption webpage="two" alt=""/>
+    </file>
+    <file name="b2.gif" crc="4076869210" ref="two">
+      <caption webpage="two" alt=""/>
+    </file>
+    <file name="b3.gif" crc="77489120" ref="two">
+      <caption webpage="two" alt=""/>
+    </file>
+    <file name="b4.gif" crc="4020712488" ref="two">
+      <caption webpage="two" alt=""/>
+    </file>
+    <file name="ra.swf" crc="53442737" ref="three"/>
+    <file name="d1.gif" crc="3990785292" ref="four">
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+    </file>
+    <file name="d2.gif" crc="219549828" ref="four">
+      <caption webpage="four" alt=""/>
+      <caption webpage="four" alt=""/>
+    </file>
+    <file name="d3.gif" crc="3844619822" ref="four">
+      <caption webpage="four" alt=""/>
+    </file>
+    <file name="d4.gif" crc="4049797052" ref="four">
+      <caption webpage="four" alt=""/>
+    </file>
+    <file name="f2.gif" crc="3828637614" ref="five">
+      <caption webpage="five" alt=""/>
+    </file>
+    <file name="f1.gif" crc="415591743" ref="five">
+      <caption webpage="five" alt=""/>
+    </file>
+    <file name="f4.gif" crc="122677689" ref="five">
+      <caption webpage="five" alt=""/>
+    </file>
+    <file name="f3.gif" crc="3773525575" ref="five">
+      <caption webpage="five" alt=""/>
+    </file>
+    <file name="g2.gif" crc="3839165382" ref="six">
+      <caption webpage="six" alt=""/>
+    </file>
+    <file name="g3.gif" crc="3838475604" ref="six">
+      <caption webpage="six" alt=""/>
+    </file>
+    <file name="g1.gif" crc="4062407172" ref="six">
+      <caption webpage="six" alt=""/>
+    </file>
+    <file name="page4.gif" crc="506602478" ref="seven">
+      <caption webpage="seven" alt=""/>
+    </file>
+    <file name="final.gif" crc="3773985267" ref="seven">
+      <caption webpage="seven" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="43402286" seo="true" mt="1544432973520" redirect="true"/>
+  <file name="character.html" crc="521076269" seo="true" mt="1544432958183" redirect="true"/>
+  <file name="one.html" crc="4061171867" seo="true" mt="1544432928636" redirect="true"/>
+  <file name="two.html" crc="314635243" seo="true" mt="1544432889343" redirect="true"/>
+  <file name="three.html" crc="30799168" seo="true" mt="1544432840576" redirect="true"/>
+  <file name="four.html" crc="131691751" seo="true" mt="1544432804667" redirect="true"/>
+  <file name="five.html" crc="201436497" seo="true" mt="1544433156448" redirect="true"/>
+  <file name="six.html" crc="28842088" seo="true" mt="1544433217659" redirect="true"/>
+  <file name="seven.html" crc="133590825" seo="true" mt="1544433327708" redirect="true"/>
+</manifest>
